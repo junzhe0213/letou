@@ -1,0 +1,7 @@
+C:\git\不重複樂透_\不重複樂透\不重複樂透\bin\Debug\不重複樂透.exe.config
+C:\git\不重複樂透_\不重複樂透\不重複樂透\bin\Debug\不重複樂透.exe
+C:\git\不重複樂透_\不重複樂透\不重複樂透\bin\Debug\不重複樂透.pdb
+C:\git\不重複樂透_\不重複樂透\不重複樂透\obj\Debug\不重複樂透.csprojResolveAssemblyReference.cache
+C:\git\不重複樂透_\不重複樂透\不重複樂透\obj\Debug\不重複樂透.csproj.CoreCompileInputs.cache
+C:\git\不重複樂透_\不重複樂透\不重複樂透\obj\Debug\不重複樂透.exe
+C:\git\不重複樂透_\不重複樂透\不重複樂透\obj\Debug\不重複樂透.pdb
